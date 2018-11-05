@@ -12,6 +12,9 @@ class App extends Component {
           <li>
             <h3>Change your Application starting with this file App.js located at: client/components/App.js</h3>
           </li>
+          <li>
+            <h3>Add your server information under: server/server.js</h3>
+          </li>
         </ul>
       </div>
     );
